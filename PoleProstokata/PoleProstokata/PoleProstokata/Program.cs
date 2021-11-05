@@ -18,6 +18,7 @@ namespace PoleProstokata
 
             Console.WriteLine($"Pole powierzchni prostkąta o bokach {a} x {b} wynosi: {pole = a * b}");
 
+
         }
     }
 }
