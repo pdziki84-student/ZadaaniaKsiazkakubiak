@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\PoleProstokata.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\PoleProstokata.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\PoleProstokata.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\PoleProstokata.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\PoleProstokata.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\ref\PoleProstokata.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\bin\Debug\net5.0\PoleProstokata.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\ref\PoleProstokata.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\PoleProstokata\PoleProstokata\PoleProstokata\obj\Debug\net5.0\PoleProstokata.genruntimeconfig.cache
