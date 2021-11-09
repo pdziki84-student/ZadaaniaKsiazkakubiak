@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\DodawanieDwochIntow.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\DodawanieDwochIntow.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\DodawanieDwochIntow.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\DodawanieDwochIntow.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\DodawanieDwochIntow.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\ref\DodawanieDwochIntow.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\bin\Debug\net5.0\DodawanieDwochIntow.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\ref\DodawanieDwochIntow.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\DodawanieDwochIntow\DodawanieDwochIntow\obj\Debug\net5.0\DodawanieDwochIntow.genruntimeconfig.cache
