@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\PiPiecZnakowPoPrzecinku.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\PiPiecZnakowPoPrzecinku.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\PiPiecZnakowPoPrzecinku.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\PiPiecZnakowPoPrzecinku.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\PiPiecZnakowPoPrzecinku.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\ref\PiPiecZnakowPoPrzecinku.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\bin\Debug\net5.0\PiPiecZnakowPoPrzecinku.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\ref\PiPiecZnakowPoPrzecinku.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\PiPiecZnakowPoPrzecinku\PiPiecZnakowPoPrzecinku\obj\Debug\net5.0\PiPiecZnakowPoPrzecinku.genruntimeconfig.cache

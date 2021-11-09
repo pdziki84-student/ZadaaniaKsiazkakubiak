@@ -18,7 +18,7 @@ namespace PoleProstokata
 
             //Console.WriteLine($"Pole powierzchni prostkąta o bokach {a} x {b} wynosi: {pole = a * b}");
 
-            Prostkat prostkat = new Prostkat(2,3);
+            Prostokat prostkat = new Prostokat(2,3);
 
             prostkat.WypiszDane();
             
