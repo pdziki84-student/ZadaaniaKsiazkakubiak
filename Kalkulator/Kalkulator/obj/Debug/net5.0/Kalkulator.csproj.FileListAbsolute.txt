@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\Kalkulator.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\Kalkulator.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\Kalkulator.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\Kalkulator.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\Kalkulator.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\ref\Kalkulator.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\bin\Debug\net5.0\Kalkulator.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\ref\Kalkulator.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Kalkulator\Kalkulator\obj\Debug\net5.0\Kalkulator.genruntimeconfig.cache
