@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace PoleProstokata
 {
-    class Prostkat
+    class Prostokat
     {
         private double A  { get; set; }
         private double B { get; set; }
         private double Pole { get; set; }
 
-        public Prostkat(double _a, double _b)
+        public Prostokat(double _a, double _b)
         {
             A = _a;
             B = _b;
@@ -20,7 +20,7 @@ namespace PoleProstokata
             Pole = PoleProstokata();
         }
 
-        public Prostkat()
+        public Prostokat()
         {
             Console.Write("Podaj wartość pierwszego boku: ");
             A = double.Parse(Console.ReadLine());
