@@ -8,35 +8,43 @@ namespace PoleProstokata
 {
     class Prostkat
     {
-        private double a = new double();
-        private double b = new double();
-        private double pole = new double();
+        private double A  { get; set; }
+        private double B { get; set; }
+        private double Pole { get; set; }
 
         public Prostkat(double _a, double _b)
         {
-            a = _a;
-            b = _b;
+            A = _a;
+            B = _b;
+
+            Pole = PoleProstokata();
         }
 
         public Prostkat()
         {
             Console.Write("Podaj wartość pierwszego boku: ");
-            this.a = double.Parse(Console.ReadLine());
+            A = double.Parse(Console.ReadLine());
 
             Console.Write("Podaj wartość drugiego boku: ");
-            this.b = double.Parse(Console.ReadLine());
+            B = double.Parse(Console.ReadLine());
 
-            this.pole = this.a * this.b;
+            Pole = PoleProstokata();
         }
 
-        //private double Pole(double pole)
-        //{
-        //    return this.pole = a * b;
-        //}
-
-        public void PoleProstokata()
+        private double PoleProstokata()
         {
-            Console.WriteLine("pole = ", pole);
+            return Pole = A * B;
+        }
+
+
+        public void WypiszDane()
+        {
+            Console.WriteLine("a = " + A);
+            Console.WriteLine($"b = {B}");
+            Console.WriteLine($"pole = {Pole}");
+
+            Console.WriteLine($"Pole prostokata o wymiarach {A} x {B} wynosi {Pole}");
+
         }
     }
 }
