@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ObetoscKuli.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ObetoscKuli.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ObetoscKuli.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ObetoscKuli.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ObetoscKuli.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ref\ObetoscKuli.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\bin\Debug\net5.0\ObetoscKuli.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ref\ObetoscKuli.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\ObetoscKuli\ObetoscKuli\obj\Debug\net5.0\ObetoscKuli.genruntimeconfig.cache
