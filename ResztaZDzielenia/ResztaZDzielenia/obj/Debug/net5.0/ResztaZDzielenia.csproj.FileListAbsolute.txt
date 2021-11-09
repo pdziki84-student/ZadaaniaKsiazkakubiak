@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ResztaZDzielenia.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ResztaZDzielenia.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ResztaZDzielenia.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ResztaZDzielenia.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ResztaZDzielenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ref\ResztaZDzielenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\bin\Debug\net5.0\ResztaZDzielenia.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ref\ResztaZDzielenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\ResztaZDzielenia\ResztaZDzielenia\obj\Debug\net5.0\ResztaZDzielenia.genruntimeconfig.cache
