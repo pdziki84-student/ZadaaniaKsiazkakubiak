@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\DeltaSwitch.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\DeltaSwitch.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\DeltaSwitch.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\DeltaSwitch.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\DeltaSwitch.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\ref\DeltaSwitch.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\bin\Debug\net5.0\DeltaSwitch.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\ref\DeltaSwitch.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\DeltaSwitch\DeltaSwitch\obj\Debug\net5.0\DeltaSwitch.genruntimeconfig.cache
