@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\Obliczanierownan.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\Obliczanierownan.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\Obliczanierownan.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\Obliczanierownan.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\Obliczanierownan.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\ref\Obliczanierownan.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\bin\Debug\net5.0\Obliczanierownan.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\ref\Obliczanierownan.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Obliczanierownan\Obliczanierownan\obj\Debug\net5.0\Obliczanierownan.genruntimeconfig.cache
