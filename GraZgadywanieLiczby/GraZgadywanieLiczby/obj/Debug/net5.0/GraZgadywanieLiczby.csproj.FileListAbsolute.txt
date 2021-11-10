@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\GraZgadywanieLiczby.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\GraZgadywanieLiczby.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\GraZgadywanieLiczby.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\GraZgadywanieLiczby.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\GraZgadywanieLiczby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\ref\GraZgadywanieLiczby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\bin\Debug\net5.0\GraZgadywanieLiczby.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\ref\GraZgadywanieLiczby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\GraZgadywanieLiczby\GraZgadywanieLiczby\obj\Debug\net5.0\GraZgadywanieLiczby.genruntimeconfig.cache
