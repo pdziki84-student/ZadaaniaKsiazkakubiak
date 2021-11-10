@@ -31,14 +31,13 @@ namespace Delta
 
             if (delta < 0)
             {
-                Console.WriteLine(delta);
                 Console.WriteLine("Równianie nie posiada pierwiastków");
             }
             else if (delta == 0)
             {
                 x0 = -b / (2 * a);
-                Console.WriteLine(delta);
-                Console.WriteLine($"Równianie posiada jeden pierwiastek x0 = {x0}");
+                
+                Console.WriteLine($"Równianie posiada jeden pierwiastek x0 = {0:##.##}", x0);
             }
             else
             {
@@ -47,7 +46,7 @@ namespace Delta
                 x2 = (-b - Math.Sqrt(delta)) / (2 * a);
 
 
-                Console.WriteLine("Równanie posiada dwa pierwiastki x1 = {0} x2 = {1}", x1, x2);
+                Console.WriteLine("Równanie posiada dwa pierwiastki x1 = {0:##.##} x2 = {1:##.##}", x1, x2);
             }
 
             Console.ReadKey();
