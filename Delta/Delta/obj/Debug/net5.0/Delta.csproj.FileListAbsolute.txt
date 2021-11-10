@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\Delta.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\Delta.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\Delta.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\Delta.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\Delta.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\ref\Delta.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\bin\Debug\net5.0\Delta.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\ref\Delta.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Delta\Delta\obj\Debug\net5.0\Delta.genruntimeconfig.cache
