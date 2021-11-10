@@ -1,0 +1,16 @@
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\TrojkaPitagorejska.exe
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\TrojkaPitagorejska.deps.json
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\TrojkaPitagorejska.runtimeconfig.json
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\TrojkaPitagorejska.runtimeconfig.dev.json
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\TrojkaPitagorejska.dll
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\ref\TrojkaPitagorejska.dll
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\bin\Debug\net5.0\TrojkaPitagorejska.pdb
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.csprojAssemblyReference.cache
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.AssemblyInfoInputs.cache
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.AssemblyInfo.cs
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.csproj.CoreCompileInputs.cache
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.dll
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\ref\TrojkaPitagorejska.dll
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.pdb
+C:\Users\Przemysław\source\repos\TrojkaPitagorejska\TrojkaPitagorejska\obj\Debug\net5.0\TrojkaPitagorejska.genruntimeconfig.cache
