@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\SumaNieparzyste.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\SumaNieparzyste.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\SumaNieparzyste.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\SumaNieparzyste.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\SumaNieparzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\ref\SumaNieparzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\bin\Debug\net5.0\SumaNieparzyste.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\ref\SumaNieparzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaNieparzyste\SumaNieparzyste\SumaNieparzyste\obj\Debug\net5.0\SumaNieparzyste.genruntimeconfig.cache

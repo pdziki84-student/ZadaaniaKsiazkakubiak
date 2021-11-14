@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\SumaParzyste.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\SumaParzyste.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\SumaParzyste.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\SumaParzyste.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\SumaParzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\ref\SumaParzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\bin\Debug\net5.0\SumaParzyste.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\ref\SumaParzyste.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumaParzyste\SumaParzyste\SumaParzyste\obj\Debug\net5.0\SumaParzyste.genruntimeconfig.cache

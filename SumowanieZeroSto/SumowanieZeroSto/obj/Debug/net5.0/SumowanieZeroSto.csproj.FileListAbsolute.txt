@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\SumowanieZeroSto.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\SumowanieZeroSto.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\SumowanieZeroSto.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\SumowanieZeroSto.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\SumowanieZeroSto.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\ref\SumowanieZeroSto.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\bin\Debug\net5.0\SumowanieZeroSto.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\ref\SumowanieZeroSto.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\SumowanieZeroSto\SumowanieZeroSto\SumowanieZeroSto\obj\Debug\net5.0\SumowanieZeroSto.genruntimeconfig.cache
