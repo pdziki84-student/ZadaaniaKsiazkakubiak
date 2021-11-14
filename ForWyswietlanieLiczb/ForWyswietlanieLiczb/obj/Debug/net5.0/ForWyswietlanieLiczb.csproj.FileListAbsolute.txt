@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ForWyswietlanieLiczb.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ForWyswietlanieLiczb.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ForWyswietlanieLiczb.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ForWyswietlanieLiczb.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ForWyswietlanieLiczb.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ref\ForWyswietlanieLiczb.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\bin\Debug\net5.0\ForWyswietlanieLiczb.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ref\ForWyswietlanieLiczb.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ForWyswietlanieLiczb\ForWyswietlanieLiczb\ForWyswietlanieLiczb\obj\Debug\net5.0\ForWyswietlanieLiczb.genruntimeconfig.cache
