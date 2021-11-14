@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\DoWhile.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\DoWhile.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\DoWhile.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\DoWhile.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\ref\DoWhile.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\bin\Debug\net5.0\DoWhile.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\ref\DoWhile.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetlaDoWhile\DoWhile\DoWhile\obj\Debug\net5.0\DoWhile.genruntimeconfig.cache

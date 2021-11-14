@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\PetlaFor.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\PetlaFor.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\PetlaFor.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\PetlaFor.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\PetlaFor.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\ref\PetlaFor.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\bin\Debug\net5.0\PetlaFor.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\ref\PetlaFor.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\PetaFor\PetlaFor\PetlaFor\obj\Debug\net5.0\PetlaFor.genruntimeconfig.cache
