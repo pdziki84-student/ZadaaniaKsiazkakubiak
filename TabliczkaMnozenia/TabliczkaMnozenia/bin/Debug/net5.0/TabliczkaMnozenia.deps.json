@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TabliczkaMnozenia/1.0.0": {
+        "runtime": {
+          "TabliczkaMnozenia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TabliczkaMnozenia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

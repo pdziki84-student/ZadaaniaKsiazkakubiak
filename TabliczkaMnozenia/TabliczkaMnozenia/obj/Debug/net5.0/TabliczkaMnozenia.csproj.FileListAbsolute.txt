@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\TabliczkaMnozenia.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\TabliczkaMnozenia.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\TabliczkaMnozenia.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\TabliczkaMnozenia.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\TabliczkaMnozenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\ref\TabliczkaMnozenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\bin\Debug\net5.0\TabliczkaMnozenia.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\ref\TabliczkaMnozenia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\TabliczkaMnozenia\TabliczkaMnozenia\TabliczkaMnozenia\obj\Debug\net5.0\TabliczkaMnozenia.genruntimeconfig.cache
