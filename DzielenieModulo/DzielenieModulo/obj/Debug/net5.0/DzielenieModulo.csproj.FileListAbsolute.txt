@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\DzielenieModulo.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\DzielenieModulo.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\DzielenieModulo.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\DzielenieModulo.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\DzielenieModulo.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\ref\DzielenieModulo.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\bin\Debug\net5.0\DzielenieModulo.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\ref\DzielenieModulo.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzielenieModulo\DzielenieModulo\DzielenieModulo\obj\Debug\net5.0\DzielenieModulo.genruntimeconfig.cache

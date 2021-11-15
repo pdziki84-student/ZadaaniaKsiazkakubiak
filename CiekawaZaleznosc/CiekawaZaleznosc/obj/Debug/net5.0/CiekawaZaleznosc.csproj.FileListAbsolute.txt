@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\CiekawaZaleznosc.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\CiekawaZaleznosc.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\CiekawaZaleznosc.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\CiekawaZaleznosc.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\CiekawaZaleznosc.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\ref\CiekawaZaleznosc.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\bin\Debug\net5.0\CiekawaZaleznosc.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\ref\CiekawaZaleznosc.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\CiekawaZaleznosc\CiekawaZaleznosc\CiekawaZaleznosc\obj\Debug\net5.0\CiekawaZaleznosc.genruntimeconfig.cache
