@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\TablicaKwadraty.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\TablicaKwadraty.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\TablicaKwadraty.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\TablicaKwadraty.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\TablicaKwadraty.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\ref\TablicaKwadraty.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\bin\Debug\net5.0\TablicaKwadraty.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\ref\TablicaKwadraty.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TablicaKwadraty\TablicaKwadraty\TablicaKwadraty\obj\Debug\net5.0\TablicaKwadraty.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\Tablicedwuwymiarowe2.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\Tablicedwuwymiarowe2.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\Tablicedwuwymiarowe2.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\Tablicedwuwymiarowe2.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\Tablicedwuwymiarowe2.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\ref\Tablicedwuwymiarowe2.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\bin\Debug\net5.0\Tablicedwuwymiarowe2.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\ref\Tablicedwuwymiarowe2.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\TabliceDwuwymiarowe2\Tablicedwuwymiarowe2\Tablicedwuwymiarowe2\obj\Debug\net5.0\Tablicedwuwymiarowe2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\Tablice.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\Tablice.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\Tablice.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\Tablice.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\Tablice.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\ref\Tablice.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\bin\Debug\net5.0\Tablice.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\ref\Tablice.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Tablice\Tablice\Tablice\obj\Debug\net5.0\Tablice.genruntimeconfig.cache
