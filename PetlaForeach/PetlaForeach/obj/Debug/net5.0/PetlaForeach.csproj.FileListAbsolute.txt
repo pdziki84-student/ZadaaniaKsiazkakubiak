@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\PetlaForeach.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\PetlaForeach.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\PetlaForeach.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\PetlaForeach.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\PetlaForeach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\ref\PetlaForeach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\bin\Debug\net5.0\PetlaForeach.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\ref\PetlaForeach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\PetlaForeach\PetlaForeach\PetlaForeach\obj\Debug\net5.0\PetlaForeach.genruntimeconfig.cache
