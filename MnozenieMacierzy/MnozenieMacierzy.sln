@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MnozenieMacierzy", "MnozenieMacierzy\MnozenieMacierzy.csproj", "{D3667E15-3398-447F-A2E6-E4A3CEBB46C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3667E15-3398-447F-A2E6-E4A3CEBB46C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3667E15-3398-447F-A2E6-E4A3CEBB46C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3667E15-3398-447F-A2E6-E4A3CEBB46C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3667E15-3398-447F-A2E6-E4A3CEBB46C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846FF026-D339-4279-A412-CF3D4694E7EA}
+	EndGlobalSection
+EndGlobal

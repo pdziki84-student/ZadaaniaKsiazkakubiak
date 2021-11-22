@@ -1,0 +1,15 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ArayLista.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ArayLista.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ArayLista.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ArayLista.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ArayLista.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ref\ArayLista.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\bin\Debug\net5.0\ArayLista.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ref\ArayLista.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\ArrayList\ArrayList\ArrayList\obj\Debug\net5.0\ArayLista.genruntimeconfig.cache

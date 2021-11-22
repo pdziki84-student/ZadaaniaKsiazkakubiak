@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\DzialaniaNaMacierzach.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\DzialaniaNaMacierzach.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\DzialaniaNaMacierzach.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\DzialaniaNaMacierzach.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\DzialaniaNaMacierzach.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\ref\DzialaniaNaMacierzach.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\bin\Debug\net5.0\DzialaniaNaMacierzach.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\ref\DzialaniaNaMacierzach.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\DzialaniaNaMacierzach\DzialaniaNaMacierzach\DzialaniaNaMacierzach\obj\Debug\net5.0\DzialaniaNaMacierzach.genruntimeconfig.cache

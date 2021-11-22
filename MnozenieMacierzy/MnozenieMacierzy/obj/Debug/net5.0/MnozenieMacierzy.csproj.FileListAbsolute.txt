@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\MnozenieMacierzy.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\MnozenieMacierzy.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\MnozenieMacierzy.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\MnozenieMacierzy.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\MnozenieMacierzy.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\ref\MnozenieMacierzy.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\bin\Debug\net5.0\MnozenieMacierzy.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\ref\MnozenieMacierzy.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\MnozenieMacierzy\MnozenieMacierzy\MnozenieMacierzy\obj\Debug\net5.0\MnozenieMacierzy.genruntimeconfig.cache
