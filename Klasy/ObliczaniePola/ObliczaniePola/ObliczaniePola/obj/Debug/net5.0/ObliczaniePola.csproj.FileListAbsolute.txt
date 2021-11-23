@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ObliczaniePola.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ObliczaniePola.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ObliczaniePola.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ObliczaniePola.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ObliczaniePola.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ref\ObliczaniePola.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\bin\Debug\net5.0\ObliczaniePola.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ref\ObliczaniePola.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\ObliczaniePola\ObliczaniePola\ObliczaniePola\obj\Debug\net5.0\ObliczaniePola.genruntimeconfig.cache

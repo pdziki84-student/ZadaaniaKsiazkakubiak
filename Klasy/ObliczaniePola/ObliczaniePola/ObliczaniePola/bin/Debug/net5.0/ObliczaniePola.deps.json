@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ObliczaniePola/1.0.0": {
+        "runtime": {
+          "ObliczaniePola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObliczaniePola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

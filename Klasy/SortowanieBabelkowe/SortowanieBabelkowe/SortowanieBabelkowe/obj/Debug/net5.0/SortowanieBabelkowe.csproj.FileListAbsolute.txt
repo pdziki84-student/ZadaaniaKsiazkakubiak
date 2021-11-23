@@ -1,0 +1,16 @@
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\SortowanieBabelkowe.exe
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\SortowanieBabelkowe.deps.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\SortowanieBabelkowe.runtimeconfig.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\SortowanieBabelkowe.runtimeconfig.dev.json
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\SortowanieBabelkowe.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\ref\SortowanieBabelkowe.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\bin\Debug\net5.0\SortowanieBabelkowe.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.csproj.AssemblyReference.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.AssemblyInfoInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.AssemblyInfo.cs
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.csproj.CoreCompileInputs.cache
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\ref\SortowanieBabelkowe.dll
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.pdb
+D:\NAUKA_C#\ZadaaniaKsiazkakubiak\Klasy\SortowanieBabelkowe\SortowanieBabelkowe\SortowanieBabelkowe\obj\Debug\net5.0\SortowanieBabelkowe.genruntimeconfig.cache

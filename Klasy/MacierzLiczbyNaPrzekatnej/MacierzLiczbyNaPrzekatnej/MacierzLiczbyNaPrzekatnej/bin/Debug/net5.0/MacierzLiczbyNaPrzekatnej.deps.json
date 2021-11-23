@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MacierzLiczbyNaPrzekatnej/1.0.0": {
+        "runtime": {
+          "MacierzLiczbyNaPrzekatnej.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MacierzLiczbyNaPrzekatnej/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
