@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\TworzenieOsoby.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\TworzenieOsoby.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\TworzenieOsoby.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\TworzenieOsoby.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\TworzenieOsoby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\ref\TworzenieOsoby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\bin\Debug\net5.0\TworzenieOsoby.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\ref\TworzenieOsoby.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Osoba\TworzenieOsoby\TworzenieOsoby\obj\Debug\net5.0\TworzenieOsoby.genruntimeconfig.cache
