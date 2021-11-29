@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\LiczbyTrojkatne.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\LiczbyTrojkatne.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\LiczbyTrojkatne.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\LiczbyTrojkatne.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\LiczbyTrojkatne.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\ref\LiczbyTrojkatne.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\bin\Debug\net5.0\LiczbyTrojkatne.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\ref\LiczbyTrojkatne.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\LiczbyTrojkatne\LiczbyTrojkatne\LiczbyTrojkatne\obj\Debug\net5.0\LiczbyTrojkatne.genruntimeconfig.cache

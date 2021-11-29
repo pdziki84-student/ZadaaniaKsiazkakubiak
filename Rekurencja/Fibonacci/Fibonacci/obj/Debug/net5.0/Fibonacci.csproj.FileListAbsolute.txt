@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\ref\Fibonacci.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\bin\Debug\net5.0\Fibonacci.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\ref\Fibonacci.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Fibonacci\Fibonacci\Fibonacci\obj\Debug\net5.0\Fibonacci.genruntimeconfig.cache

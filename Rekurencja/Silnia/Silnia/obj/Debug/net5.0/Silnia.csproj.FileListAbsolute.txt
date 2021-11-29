@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\Silnia.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\Silnia.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\Silnia.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\Silnia.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\Silnia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\ref\Silnia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\bin\Debug\net5.0\Silnia.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\ref\Silnia.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\Rekurencja\Silnia\Silnia\Silnia\obj\Debug\net5.0\Silnia.genruntimeconfig.cache
