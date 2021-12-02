@@ -6,10 +6,15 @@ namespace TworzenieOsoby
     {
         static void Main(string[] args)
         {
-            Osoba osoba = new Osoba();
+            //Osoba osoba = new Osoba();
 
-            osoba.wczytaj();
-            osoba.wyswietl();
+            //osoba.wczytaj();
+            //osoba.wyswietl();
+
+            Kadra osoba = new Kadra();
+            osoba.Wczytaj1();
+            osoba.Wyswietl1();
+
         }
     }
 }
