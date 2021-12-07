@@ -1,0 +1,16 @@
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\OperacjeNaPlikach.exe
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\OperacjeNaPlikach.deps.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\OperacjeNaPlikach.runtimeconfig.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\OperacjeNaPlikach.runtimeconfig.dev.json
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\OperacjeNaPlikach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\ref\OperacjeNaPlikach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\bin\Debug\net5.0\OperacjeNaPlikach.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.csprojAssemblyReference.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.AssemblyInfoInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.AssemblyInfo.cs
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.csproj.CoreCompileInputs.cache
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\ref\OperacjeNaPlikach.dll
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.pdb
+E:\C#zadania\ZadaaniaKsiazkakubiak\OperacjeNaPlikach\OperacjeNaPlikach\OperacjeNaPlikach\obj\Debug\net5.0\OperacjeNaPlikach.genruntimeconfig.cache
